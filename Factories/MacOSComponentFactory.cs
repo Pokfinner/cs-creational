@@ -12,8 +12,16 @@ namespace GameEditor.Factories
             return new MacOSCamera();
         }
 
+        public ILight CreateLight(){
+            return new MacOSLight();
+        }
+
         public IButton CreateButton(){
             return new MacOSButton();
+        }
+
+        public IText CreateText(){
+            return new MacOSText();
         }
     }
 }

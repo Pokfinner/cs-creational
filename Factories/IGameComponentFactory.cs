@@ -6,6 +6,8 @@ namespace GameEditor.Factories
     {
         IGameComponent CreateGameComponent();
         ICamera CreateCamera();
+        ILight CreateLight();
         IButton CreateButton();
+        IText CreateText();
     }
 }

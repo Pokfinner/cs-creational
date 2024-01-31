@@ -10,7 +10,7 @@ namespace GameEditor.Components.Interfaces
 
         public void Render()
         {
-            Console.WriteLine($"MacOS Button ({Color}) - [ {Text} ]");
+            Console.Write($"MacOS Button ({Color}) - [ {Text} ]");
         }
 
     }

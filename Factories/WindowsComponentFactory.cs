@@ -4,16 +4,29 @@ namespace GameEditor.Factories
 {
     public class WindowsComponentFactory : IGameComponentFactory
     {
-        public IGameComponent CreateGameComponent(){
+        public IGameComponent CreateGameComponent()
+        {
             return new WindowsGameComponent();
         }
 
-        public ICamera CreateCamera(){
+        public ICamera CreateCamera()
+        {
             return new WindowsCamera();
         }
 
-        public IButton CreateButton(){
+        public ILight CreateLight()
+        {
+            return new WindowsLight();
+        }
+
+        public IButton CreateButton()
+        {
             return new WindowsButton();
+        }
+
+        public IText CreateText()
+        {
+            return new WindowsText();
         }
     }
 }
