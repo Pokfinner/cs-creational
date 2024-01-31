@@ -12,3 +12,4 @@
 /Users/diogobarros/Desktop/GameEditor/obj/Debug/net8.0/GameEditor.pdb
 /Users/diogobarros/Desktop/GameEditor/obj/Debug/net8.0/GameEditor.genruntimeconfig.cache
 /Users/diogobarros/Desktop/GameEditor/obj/Debug/net8.0/ref/GameEditor.dll
+/Users/diogobarros/Desktop/GameEditor/obj/Debug/net8.0/GameEditor.sourcelink.json

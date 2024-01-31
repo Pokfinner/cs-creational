@@ -44,7 +44,5 @@ namespace GameEditor.Builders
             return component;
 
         }
-
-
     }
 }

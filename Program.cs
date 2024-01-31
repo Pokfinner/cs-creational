@@ -38,7 +38,6 @@ class Program
     // Implementar Factory para Windows
     static IGameComponentFactory GetFactoryBasedOnOS()
     {
-        Console.WriteLine(ConfigurationManager.Instance.OS);
 
         switch (ConfigurationManager.Instance.OS)
         {
