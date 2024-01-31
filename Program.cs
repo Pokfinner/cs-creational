@@ -17,7 +17,7 @@ class Program
 
         // Factory Method - Lançar *um* Editor Visual baseado no OS
         GUIEditor editor = GetGUIEditorBasedOnOS();
-        editor.ConstructGUI();
+        editor.DisplayGUI();
 
         // Construir o Jogo
         var builder = new GameBuilder();
