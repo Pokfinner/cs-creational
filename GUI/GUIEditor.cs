@@ -9,7 +9,7 @@ namespace GameEditor.GUIEditor
         protected static List<ComponentConfiguration> configs = new List<ComponentConfiguration>();
         protected string _option = "";
 
-        public abstract void ConstructGUI();
+        public abstract void DisplayGUI();
         public List<ComponentConfiguration> getConfigs(){
             return configs;
         }

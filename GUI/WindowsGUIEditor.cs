@@ -6,7 +6,7 @@ namespace GameEditor.GUIEditor
     {
         public WindowsGUIEditor() : base() { }
 
-        public override void ConstructGUI()
+        public override void DisplayGUI()
         {
 
             // GUI Editor
