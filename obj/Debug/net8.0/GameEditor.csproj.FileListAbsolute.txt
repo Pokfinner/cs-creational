@@ -1,0 +1,14 @@
+/Users/diogobarros/Desktop/GameEditor/bin/Debug/net8.0/GameEditor
+/Users/diogobarros/Desktop/GameEditor/bin/Debug/net8.0/GameEditor.deps.json
+/Users/diogobarros/Desktop/GameEditor/bin/Debug/net8.0/GameEditor.runtimeconfig.json
+/Users/diogobarros/Desktop/GameEditor/bin/Debug/net8.0/GameEditor.dll
+/Users/diogobarros/Desktop/GameEditor/bin/Debug/net8.0/GameEditor.pdb
+/Users/diogobarros/Desktop/GameEditor/obj/Debug/net8.0/GameEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogobarros/Desktop/GameEditor/obj/Debug/net8.0/GameEditor.AssemblyInfoInputs.cache
+/Users/diogobarros/Desktop/GameEditor/obj/Debug/net8.0/GameEditor.AssemblyInfo.cs
+/Users/diogobarros/Desktop/GameEditor/obj/Debug/net8.0/GameEditor.csproj.CoreCompileInputs.cache
+/Users/diogobarros/Desktop/GameEditor/obj/Debug/net8.0/GameEditor.dll
+/Users/diogobarros/Desktop/GameEditor/obj/Debug/net8.0/refint/GameEditor.dll
+/Users/diogobarros/Desktop/GameEditor/obj/Debug/net8.0/GameEditor.pdb
+/Users/diogobarros/Desktop/GameEditor/obj/Debug/net8.0/GameEditor.genruntimeconfig.cache
+/Users/diogobarros/Desktop/GameEditor/obj/Debug/net8.0/ref/GameEditor.dll
