@@ -10,7 +10,7 @@ namespace GameEditor.Components.Interfaces
 
         public void Render()
         {
-            Console.WriteLine("Windows Game Component");
+            Console.Write("Windows Game Component");
         }
     }
 

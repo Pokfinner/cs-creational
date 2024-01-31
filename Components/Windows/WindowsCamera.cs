@@ -10,12 +10,12 @@ namespace GameEditor.Components.Interfaces
 
         public void Render()
         {
-            Console.WriteLine("Windows Camera");
+            Console.Write("Windows Camera");
         }
 
         public void CaptureFrame()
         {
-            Console.WriteLine("Windows - Filming Scene");
+            Console.Write("Windows - Filming Scene");
         }
     }
 

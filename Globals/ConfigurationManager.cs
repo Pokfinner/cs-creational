@@ -11,6 +11,7 @@ namespace GameEditor.Globals
             }
         }
 
+        public string layout {get; set;} = "Horizontal";
         public string Theme {get; set;} = "Dark";
         public string Language {get; set;} = "English";
         public string OS {get; set;} = "Windows";

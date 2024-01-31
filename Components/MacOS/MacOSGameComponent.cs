@@ -10,9 +10,8 @@ namespace GameEditor.Components.Interfaces
 
         public void Render()
         {
-            Console.WriteLine("MacOS Game Component");
+            Console.Write("MacOS Game Component");
         }
     }
-
 }
 

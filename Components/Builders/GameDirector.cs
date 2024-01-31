@@ -37,6 +37,16 @@ namespace GameEditor.Builders
                     var gComponent = _factory.CreateGameComponent();
                     component = gComponent;
                     break;
+                case "Light":
+                    var light = _factory.CreateLight();
+                    component = light;
+                    break;
+                case "Text":
+                    var text = _factory.CreateText();
+                    text.Text = componentConfig.Text;
+                    text.Color = componentConfig.Color;
+                    component = text;
+                    break;
                 default:
                     throw new InvalidOperationException("Wrong Configuration Type");
             }

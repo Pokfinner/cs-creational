@@ -8,12 +8,12 @@ namespace GameEditor.Components.Interfaces
 
         public void Render()
         {
-            Console.WriteLine($"MacOS Camera");
+            Console.Write($"MacOS Camera");
         }
 
         public void CaptureFrame()
         {
-            Console.WriteLine("MacOS - Filming Scene");
+            Console.Write("MacOS - Filming Scene");
         }
     }
 
